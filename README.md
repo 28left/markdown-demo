@@ -9,5 +9,5 @@ An **arithmetic progression (AP)** of length $k$ is a sequence $a, a+m, a+2m, \l
 Gowers showed that
 
 $$
-W(r,k) \leq 2^{2^{r^{2^{2^{k+9}}}}
+W(r,k) \leq 2^{2^{r^{2^{2^{k+9}}}}}
 $$
